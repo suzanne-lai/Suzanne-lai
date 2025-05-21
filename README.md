@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello, I'm Suzanne Lai 
 ## Aspiring Software Developer | Computer Science Student
 
-I'm currently studying Computer Science at [Your School], 
+I'm currently studying Computer Science at San Jose City College, 
 focusing on full-stack development and cloud computing. 
 I'm passionate about creating efficient, user-friendly 
 applications and contributing to open-source projects.
@@ -38,9 +38,9 @@ applications and contributing to open-source projects.
 - Tools: Git, VS Code, Docker
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn URL]
-- Email: professional.email@domain.com
-- Portfolio: [Your website if available]
+- LinkedIn: https://www.linkedin.com/in/suzanne-lai-944192228/
+- Email: suzannelai999@gmail.com
+
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
