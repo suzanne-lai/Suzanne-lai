@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, I'm Suzanne Lai 
+# Hello, I'm Suzanne Lai 
 ## Aspiring Software Developer | Computer Science Student
 
 I'm currently studying Computer Science at San Jose City College, 
